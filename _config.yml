@@ -3,3 +3,5 @@ markdown: kramdown
 pygments: true
 
 baseurl: "/blog"
+
+theme: jekyll-theme-minimal
