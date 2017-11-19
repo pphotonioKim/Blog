@@ -1,5 +1,6 @@
-name: Your New Jekyll Site
+name: Synopsys and Optical System Design
 markdown: kramdown
+highlighter: rouge
 pygments: true
 
 baseurl: "/blog"
